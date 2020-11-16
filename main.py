@@ -6,6 +6,7 @@ from time import strftime
 
 root = Tk()
 
+  
 root.title("Clock")
 
 def time():
